@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Documentaion</title>
+    <!-- Favicons
+         ================================================== -->
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32x32.png">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/fonts/font-awesome/css/font-awesome.css">
+    <!-- Stylesheet
+         ================================================== -->
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="left-side">
+            <div class="logo">
+                <h1><a href="#"><img src="assets/img/logo.png" alt="logo" /></a></h1>
+            </div>
+            <div class="left-content">
+                <ul role="tablist">
+                    <li role="presentation"><a href="index.html"><span><i class="fa fa-home"></i></span>Introduction</a></li>
+                    <li role="presentation"><a href="installation.html"><span><i class="fa fa-file"></i></span>Installation</a></li>
+                    <li role="presentation" class="active"><a href="structure.html"><span><i class="fa fa-slideshare"></i></span>File Structure</a></li>
+                    <li role="presentation"><a href="components.html"><span><i class="fa fa-code"></i></span>Components</a></li>
+                     <li role="presentation"><a href="resources.html"><span><i class="fa fa-css3"></i></span>Resources</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="right-side">
+            <div class="right-content">
+                <div id="one" class="content active fade in">
+                    <h1>File Structure</h1>
+                    <div class="wrap-content">
+                        <div class="introduction-wrap">
+                            <h3>PROJECT STRUCTURE</h3>
+                            <p>Gauto has React project: </p>
+                            <pre class="documentation__structure">
+                                <code>
+                                Gauto/
+                                    |——template
+                                    |  |——docs/
+                                    |  |  |——css/     
+                                    |  |  |——img
+                                    |  |  |——webfonts
+                                    |  |——app/
+                                    |  |  |——components/                    --all basic component here
+                                    |  |  |    |—— About/
+                                    |  |  |    |—— AboutPage/
+                                    |  |  |    |—— Blog/
+                                    |  |  |    |—— BlogDetails/
+                                    |  |  |    |—— BlogList/
+                                    |  |  |    |—— BlogSidebar/
+                                    |  |  |    |—— CarBooking/
+                                    |  |  |    |—— CarList/
+                                    |  |  |    |—— Cart/
+                                    |  |  |    |—— Checkout/
+                                    |  |  |    |—— Contact/
+                                    |  |  |    |—— Error/
+                                    |  |  |    |—— Findcar/
+                                    |  |  |    |—— Footer/
+                                    |  |  |    |—— Gallery/
+                                    |  |  |    |—— header/
+                                    |  |  |    |—— Help/
+                                    |  |  |    |—— HotOffers/
+                                    |  |  |    |—— Login/
+                                    |  |  |    |—— MobileMenu/
+                                    |  |  |    |—— PageTitle/
+                                    |  |  |    |—— ProductDetails/
+                                    |  |  |    |—— Products/
+                                    |  |  |    |—— Promo/
+                                    |  |  |    |—— Register/
+                                    |  |  |    |—— Service/
+                                    |  |  |    |—— ServiceDetails/
+                                    |  |  |    |—— ServiceList/
+                                    |  |  |    |—— Team/
+                                    |  |  |    |—— Testimonial/
+                                    |  |  |-main-component/
+                                    |  |  |    |——__router/                 --all route file
+                                    |  |  |    |——AboutPage/                --AboutPage
+                                    |  |  |    |——App/                      --main app js
+                                    |  |  |    |——BlogPage/                      --Blog Page
+                                    |  |  |    |——BlogSinglePage/                      --Blog Single Page
+                                    |  |  |    |——CarBookingPage/                      --Car Booking Page
+                                    |  |  |    |——CarListingPage/                      --Car Listing Page
+                                    |  |  |    |——CartPage/                      --Cart Page
+                                    |  |  |    |——CheckoutPage/                      --Checkout Page
+                                    |  |  |    |——ErrorPage/                      --Error Page
+                                    |  |  |    |——GalleryPage/                      --Gallery Page
+                                    |  |  |    |——HomePage/                      --Home Page
+                                    |  |  |    |——LoginPage/                      --Login Page
+                                    |  |  |    |——ProductPage/                      --Product Page
+                                    |  |  |    |——ProductSinglePage/                      --Product Single Page
+                                    |  |  |    |——RegisterPage/                      --Register Page
+                                    |  |  |    |——ServiceDetails/                      --Service Details Page
+                                    |  |  |    |——ServicePage/                      --Service Page
+                                    |  |  |    |——ContactPage/                      --Contact Page
+                                    |  |  |——img/                        --all static images 
+                                    |  |  |——tests/                         --test file
+                                    |  |  |——translations/                  --all translation file (en,fr, etc)
+                                    |  |  |——utils/                         --all statick data and common js
+                                    |  |  |——app.js
+                                    |  |  |——styles.js
+                                    |  |  |——index.html
+                                    |  |  |——.env                       
+                                    |  |——package.json
+                                    |  |——package-lock.json
+                                </code>
+                            </pre>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="assets/js/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+</body>
+
+</html>
