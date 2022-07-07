@@ -50,11 +50,11 @@
 }
 
 .single-shop-price p span {
-  color: #ec3323;
+  color:#ff6600;
 }
 
 .single-shop-page-btn a.gauto-btn {
-  color: #ec3323;
+  color:#ff6600;
   margin: 0;
 }
 
@@ -96,9 +96,9 @@
 
 .single-shop-page-btn ul li a:hover,
 .gauto-cart-close a:hover {
-  background: #ec3323 none repeat scroll 0 0;
+  background:#ff6600 none repeat scroll 0 0;
   color: #fff;
-  border: 1px solid #ec3323;
+  border: 1px solid#ff6600;
 }
 
 .gauto-related-products .product-item {

@@ -36,7 +36,7 @@
 
 .service-menu li.active a,
 .service-menu li a:hover {
-  color: #ec3323;
+  color:#ff6600;
   padding-left: 25px;
 }
 
@@ -57,7 +57,7 @@
   content: "";
   width: 62%;
   height: 100%;
-  background: #ec3323 none repeat scroll 0 0;
+  background:#ff6600 none repeat scroll 0 0;
   right: -36px;
   z-index: -1;
   -webkit-transform: skewX(40deg);
@@ -81,7 +81,7 @@
 }
 
 .brochures:hover {
-  background: #ec3323 none repeat scroll 0 0;
+  background:#ff6600 none repeat scroll 0 0;
 }
 
 .brochures:hover:after {
@@ -130,7 +130,7 @@
 }
 
 .service-page-banner a:hover {
-  color: #ec3323;
+  color:#ff6600;
   background-color: #fff;
   border-color: #fff;
 }
@@ -182,7 +182,7 @@
 }
 
 .service-details-list li svg {
-  fill: #ec3323;
+  fill:#ff6600;
   margin-right: 5px;
 }
 
@@ -218,7 +218,7 @@
 }
 
 .Tags-catagory a:hover {
-  color: #ec3323;
+  color:#ff6600;
 }
 
 .single_faq_accordian {
@@ -279,7 +279,7 @@
   width: 12%;
   height: 100%;
   left: -26px;
-  background: #ec3323;
+  background:#ff6600;
   -webkit-transform: skew(-30deg);
   transform: skew(-30deg);
   -webkit-transition: all 0.4s ease 0s;
@@ -293,7 +293,7 @@
   width: 12%;
   height: 100%;
   left: -26px;
-  background: #ec3323;
+  background:#ff6600;
   -webkit-transform: skew(30deg);
   transform: skew(30deg);
 }

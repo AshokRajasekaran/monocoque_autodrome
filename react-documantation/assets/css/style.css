@@ -62,10 +62,10 @@ a:focus {
     font-family: 'Molle', cursive;
 	font-size: 50px;
 	text-transform: capitalize;
-	color: #ec3323    !important;
+	color:#ff6600    !important;
 }
 .logo h1 a{
-    color: #ec3323    
+    color:#ff6600    
 }
 .wrapper {
 	position: relative;
@@ -117,11 +117,11 @@ a:focus {
 }
 
 .left-content ul li.active {
-	background-color: #ec3323     ;
+	background-color:#ff6600     ;
 }
 
 .left-content ul li.active a span {
-	border-color: #ec3323    ;
+	border-color:#ff6600    ;
 }
 
 .left-content ul li a {
@@ -147,7 +147,7 @@ a:focus {
 }
 
 .copyright {
-	background-color: #ec3323     ;
+	background-color:#ff6600     ;
 	border-top: 1px solid rgba(0, 0, 0, 0.07);
 	color: #ffffff;
 	padding: 20px;
@@ -196,7 +196,7 @@ pre {
 .content {}
 
 .content a {
-	color: #ec3323     ;
+	color:#ff6600     ;
 }
 
 .content h1 {
@@ -209,7 +209,7 @@ pre {
 }
 
 #one>h1 span {
-	color: #ec3323    ;
+	color:#ff6600    ;
 }
 
 .content#source>ul li span {
@@ -222,7 +222,7 @@ pre {
 }
 
 .satisfication-area.color-bg::after {
-	background: #ec3323      none repeat scroll 0 0 !important;
+	background:#ff6600      none repeat scroll 0 0 !important;
 }
 
 #seven>ul {
@@ -230,7 +230,7 @@ pre {
 }
 
 #seven ul li i {
-	color: #ec3323     ;
+	color:#ff6600     ;
 	margin-right: 10px;
 }
 .introduction-wrap h3{

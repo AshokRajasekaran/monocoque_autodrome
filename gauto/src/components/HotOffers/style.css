@@ -54,7 +54,7 @@
 }
 
 #offerTab li.nav-item .nav-link:hover:after {
-  background: #ec3323 none repeat scroll 0 0;
+  background:#ff6600 none repeat scroll 0 0;
   -webkit-transform: skew(-40deg);
   transform: skew(-40deg);
 }
@@ -75,7 +75,7 @@
   z-index: -1;
   -webkit-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
-  background: #ec3323 none repeat scroll 0 0;
+  background:#ff6600 none repeat scroll 0 0;
   -webkit-transform: skew(-40deg);
   transform: skew(-40deg);
 }
@@ -123,7 +123,7 @@
 
 .offer-text h4 span {
   text-transform: capitalize;
-  color: #ec3323;
+  color:#ff6600;
   font-size: 16px;
 }
 
@@ -154,7 +154,7 @@
   content: "";
   width: 66%;
   height: 100%;
-  background: #ec3323 none repeat scroll 0 0;
+  background:#ff6600 none repeat scroll 0 0;
   right: -36px;
   z-index: -1;
   -webkit-transform: skewX(40deg);
@@ -164,7 +164,7 @@
 }
 
 .offer-action:hover {
-  background: #ec3323 none repeat scroll 0 0;
+  background:#ff6600 none repeat scroll 0 0;
 }
 
 .offer-action:hover:after {
@@ -184,7 +184,7 @@
 
 .offer-text ul li svg {
   margin-right: 5px;
-  fill: #ec3323;
+  fill:#ff6600;
 }
 
 @media (min-width: 768px) and (max-width: 991px) {

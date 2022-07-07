@@ -19,7 +19,7 @@
 .login-page-heading svg {
   font-size: 22px;
   margin-right: 5px;
-  color: #ec3323;
+  color:#ff6600;
 }
 
 .login-page-heading > h3 {
@@ -93,7 +93,7 @@
 }
 
 .login-sign-up > a:hover {
-  color: #ec3323;
+  color:#ff6600;
 }
 
 .login-page-box .remember {
@@ -153,7 +153,7 @@
 }
 
 .lost-pass a:hover {
-  color: #ec3323;
+  color:#ff6600;
 }
 
 .checkbox label {
@@ -249,8 +249,8 @@
 .checkbox-spin:checked + label span:before {
   -webkit-transform: rotateZ(180deg);
   transform: rotateZ(180deg);
-  background: #ec3323;
-  border: 1px solid #ec3323;
+  background:#ff6600;
+  border: 1px solid#ff6600;
 }
 
 @media (min-width: 992px) and (max-width: 1169px) {

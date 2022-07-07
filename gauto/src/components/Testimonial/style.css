@@ -74,7 +74,7 @@
 }
 
 .client-info p {
-  color: #ec3323;
+  color:#ff6600;
 }
 .testimonial-slider .slide {
   padding: 0 15px;
@@ -106,7 +106,7 @@
   margin: auto;
 }
 .testimonial-slider .slick-dots li.slick-active button {
-  background: #ec3323;
+  background:#ff6600;
 }
 .testimonial-slider .slick-dots li {
   width: auto;

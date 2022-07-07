@@ -26,7 +26,7 @@ input#timepicker {
 }
 .sidebar-widget form p input:focus,
 .sidebar-widget form p select:focus {
-  border: 2px solid #ec3323;
+  border: 2px solid#ff6600;
 }
 
 .sidebar-widget form {
@@ -155,7 +155,7 @@ input#timepicker {
 
 .service-menu li.active a,
 .service-menu li a:hover {
-  color: #ec3323;
+  color:#ff6600;
   padding-left: 25px;
 }
 .car-grid-list .single-offers {
@@ -202,7 +202,7 @@ input#timepicker {
 
 .offer-text h4 span {
   text-transform: capitalize;
-  color: #ec3323;
+  color:#ff6600;
   font-size: 16px;
 }
 
@@ -233,7 +233,7 @@ input#timepicker {
   content: "";
   width: 66%;
   height: 100%;
-  background: #ec3323 none repeat scroll 0 0;
+  background:#ff6600 none repeat scroll 0 0;
   right: -36px;
   z-index: -1;
   -webkit-transform: skewX(40deg);
@@ -243,7 +243,7 @@ input#timepicker {
 }
 
 .offer-action:hover {
-  background: #ec3323 none repeat scroll 0 0;
+  background:#ff6600 none repeat scroll 0 0;
 }
 
 .offer-action:hover:after {
@@ -263,7 +263,7 @@ input#timepicker {
 
 .offer-text ul li i {
   margin-right: 5px;
-  color: #ec3323;
+  color:#ff6600;
 }
 .pagination-box-row {
   text-align: left;

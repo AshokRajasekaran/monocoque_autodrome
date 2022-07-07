@@ -40,7 +40,7 @@
 }
 
 .checkout-left-box form input:focus {
-  border: 2px solid #ec3323;
+  border: 2px solid#ff6600;
 }
 
 .checkout-left-box form label {

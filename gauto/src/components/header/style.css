@@ -13,7 +13,7 @@
 
 .header-top-left:before {
   position: absolute;
-  background: #ec3323 none repeat scroll 0 0;
+  background:#ff6600 none repeat scroll 0 0;
   content: "";
   top: 0;
   right: 37%;
@@ -45,7 +45,7 @@
   height: 25px;
   line-height: 25px;
   background: #fff none repeat scroll 0 0;
-  color: #ec3323;
+  color:#ff6600;
   border-radius: 50%;
   margin: 0 2px;
   padding: 5px;
@@ -141,15 +141,21 @@
   margin-right: 10px;
 }
 
+.header-promo-icon img {
+  width: 40px;
+  height: 40px;
+}
+
 .header-promo-info {
   color: #555;
 }
 
 .header-promo-info h3 {
-  font-size: 20px;
   line-height: 30px;
   color: #001238;
   font-weight: 600;
+  font-size: 18px;
+  white-space: pre;
   font-family: "Poppins", sans-serif;
 }
 
@@ -161,7 +167,7 @@
   display: inline-block;
   text-align: center;
   padding: 10px 25px 10px 0px;
-  background: #ec3323 none repeat scroll 0 0;
+  background:#ff6600 none repeat scroll 0 0;
   color: #fff;
   text-transform: uppercase;
   font-weight: 500;
@@ -171,7 +177,7 @@
 
 .header-action a:before {
   position: absolute;
-  background: #ec3323 none repeat scroll 0 0;
+  background:#ff6600 none repeat scroll 0 0;
   content: "";
   top: 0;
   left: -25px;
@@ -211,7 +217,7 @@
 
 .mainmenu ul li:hover > a,
 .mainmenu ul li.active > a {
-  color: #ec3323;
+  color:#ff6600;
 }
 
 .mainmenu ul li ul {
@@ -286,7 +292,7 @@
   position: absolute;
   width: 18px;
   height: 18px;
-  background: #ec3323 none repeat scroll 0 0;
+  background:#ff6600 none repeat scroll 0 0;
   font-size: 10px;
   line-height: 20px;
   color: #fff;
@@ -367,7 +373,7 @@
 .product-remove {
   float: right;
   font-size: 16px !important;
-  color: #ec3323;
+  color:#ff6600;
 }
 
 .cart-btn-pro-img {
@@ -446,7 +452,7 @@
   content: "";
   width: 66%;
   height: 100%;
-  background: #ec3323 none repeat scroll 0 0;
+  background:#ff6600 none repeat scroll 0 0;
   right: -36px;
   z-index: -1;
   -webkit-transform: skewX(40deg);
@@ -456,7 +462,7 @@
 }
 
 .cart-btn:hover {
-  background: #ec3323 none repeat scroll 0 0;
+  background:#ff6600 none repeat scroll 0 0;
 }
 
 .cart-btn:hover:after {
@@ -597,7 +603,7 @@
     color: #001238 !important;
   }
   .header-top-left p i {
-    background: #ec3323 none repeat scroll 0 0;
+    background:#ff6600 none repeat scroll 0 0;
     color: #fff;
   }
   .search-box {
@@ -690,7 +696,7 @@
     color: #001238;
   }
   .header-top-left p i {
-    background: #ec3323 none repeat scroll 0 0;
+    background:#ff6600 none repeat scroll 0 0;
     color: #fff;
   }
   .offer-action:after {

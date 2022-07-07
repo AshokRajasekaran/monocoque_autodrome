@@ -26,7 +26,7 @@
 }
 
 .blog-text h3 a:hover {
-  color: #ec3323;
+  color:#ff6600;
 }
 
 .blog-meta-home {
@@ -81,7 +81,7 @@
 
 .blog-meta-right p svg {
   margin-right: 5px;
-  fill: #ec3323;
+  fill:#ff6600;
 }
 
 .gauto-blog-page-area {
@@ -103,7 +103,7 @@
 
 .blog-text ul li i {
   margin-right: 5px;
-  color: #ec3323;
+  color:#ff6600;
 }
 
 .blog-text ul li a {
@@ -111,7 +111,7 @@
 }
 
 .blog-text a.gauto-btn {
-  color: #ec3323;
+  color:#ff6600;
 }
 
 .blog-text a.gauto-btn:hover {
@@ -119,7 +119,7 @@
 }
 
 .blog-text a.gauto-btn {
-  color: #ec3323;
+  color:#ff6600;
   margin: 20px 0 0 0;
 }
 

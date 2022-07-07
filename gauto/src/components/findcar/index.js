@@ -13,6 +13,8 @@ const FindCar = () => {
     e.preventDefault();
   };
 
+  return <></>;
+
   return (
     <section className="gauto-find-area">
       <Container>

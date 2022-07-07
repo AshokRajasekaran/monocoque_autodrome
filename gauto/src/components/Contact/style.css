@@ -37,7 +37,7 @@
 
 .contact-left form input:focus,
 .contact-left form textarea:focus {
-  border: 2px solid #ec3323;
+  border: 2px solid#ff6600;
 }
 
 .single-contact-field button.gauto-theme-btn {
@@ -47,7 +47,7 @@
 }
 
 .contact-details p i {
-  color: #ec3323;
+  color:#ff6600;
   margin-right: 5px;
 }
 
@@ -78,7 +78,7 @@
   letter-spacing: 1px;
   color: #fff;
   font-weight: 500;
-  background: #ec3323 none repeat scroll 0 0;
+  background:#ff6600 none repeat scroll 0 0;
   border-radius: 4px;
 }
 
@@ -107,9 +107,9 @@
 }
 
 .social-links-contact ul li a:hover {
-  background: #ec3323 none repeat scroll 0 0;
+  background:#ff6600 none repeat scroll 0 0;
   color: #fff;
-  border: 1px solid #ec3323;
+  border: 1px solid#ff6600;
 }
 
 @media (min-width: 768px) and (max-width: 991px) {

@@ -36,7 +36,7 @@
 
 .service-menu li.active a,
 .service-menu li a:hover {
-  color: #ec3323;
+  color:#ff6600;
   padding-left: 25px;
 }
 .service-details-right h3,
@@ -81,7 +81,7 @@
 }
 
 .service-details-list li i {
-  color: #ec3323;
+  color:#ff6600;
   margin-right: 5px;
 }
 
@@ -117,12 +117,12 @@
 }
 
 .Tags-catagory a:hover {
-  color: #ec3323;
+  color:#ff6600;
 }
 
 .blog-text ul li svg {
   margin-right: 5px;
-  fill: #ec3323;
+  fill:#ff6600;
 }
 .blog-page-left .pagination {
   margin-top: 50px;

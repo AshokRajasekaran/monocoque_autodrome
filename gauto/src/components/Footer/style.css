@@ -53,7 +53,7 @@
   bottom: -13px;
   width: 18%;
   height: 2px;
-  background: #ec3323;
+  background:#ff6600;
   left: 0;
 }
 
@@ -104,7 +104,7 @@
   background: transparent;
   right: 10px;
   height: 100%;
-  color: #ec3323;
+  color:#ff6600;
   cursor: pointer;
 }
 
@@ -166,7 +166,7 @@
 }
 
 .copyright p svg {
-  fill: #ec3323;
+  fill:#ff6600;
   margin: 0 2px;
 }
 

@@ -1,7 +1,7 @@
 /* ===================== ABOUT PAGE ======================*/
 .about-page-left h4 {
   font-size: 20px;
-  color: #ec3323;
+  color:#ff6600;
   margin-bottom: 10px;
   display: block;
   font-weight: 500;
@@ -47,12 +47,12 @@
 .page-call-icon {
   font-size: 50px;
   margin-right: 30px;
-  color: #ec3323;
+  color:#ff6600;
 }
 
 .call-info p {
   text-transform: capitalize;
-  color: #ec3323;
+  color:#ff6600;
   font-size: 17px;
   margin-bottom: 5px;
 }
@@ -93,7 +93,7 @@
 }
 
 .about-promo-text h3 span {
-  color: #ec3323;
+  color:#ff6600;
 }
 
 .about-promo-image {

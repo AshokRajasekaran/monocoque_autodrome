@@ -13,7 +13,7 @@
   padding: 5px 15px;
   line-height: 20px;
   text-transform: uppercase;
-  background: #ec3323;
+  background:#ff6600;
   color: #fff;
   font-weight: 500;
   font-size: 14px;
@@ -45,7 +45,7 @@
 
 .car-booking-right h4 span {
   text-transform: capitalize;
-  color: #ec3323;
+  color:#ff6600;
   font-size: 16px;
 }
 
@@ -91,7 +91,7 @@
 
 .car-features ul li svg {
   margin-right: 5px;
-  fill: #ec3323;
+  fill:#ff6600;
 }
 
 .single-booking h3,
@@ -146,7 +146,7 @@
 
 .single-booking form p input:focus,
 .single-booking form p select:focus {
-  border: 2px solid #ec3323;
+  border: 2px solid#ff6600;
 }
 
 .single-booking {
@@ -211,15 +211,15 @@
 }
 
 input[type="radio"]:checked ~ .check {
-  border: 3px solid #ec3323;
+  border: 3px solid#ff6600;
 }
 
 input[type="radio"]:checked ~ .check:before {
-  background: #ec3323;
+  background:#ff6600;
 }
 
 input[type="radio"]:checked ~ label {
-  color: #ec3323;
+  color:#ff6600;
 }
 
 .payment img {
@@ -232,7 +232,7 @@ input[type="radio"]:checked ~ label {
 }
 
 .action-btn a.gauto-btn {
-  color: #ec3323;
+  color:#ff6600;
   margin: 30px 0 0 0;
 }
 

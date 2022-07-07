@@ -25,7 +25,7 @@
 
 .promo-box-left:after {
   position: absolute;
-  background: #ec3323 none repeat scroll 0 0;
+  background:#ff6600 none repeat scroll 0 0;
   content: "";
   top: 0;
   right: 55%;

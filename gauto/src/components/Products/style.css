@@ -36,7 +36,7 @@
 
 .service-menu li.active a,
 .service-menu li a:hover {
-  color: #ec3323;
+  color:#ff6600;
   padding-left: 25px;
 }
 .product_search {
@@ -120,7 +120,7 @@
 
 .recent-text p,
 .product-title p {
-  color: #ec3323;
+  color:#ff6600;
   font-weight: 500;
 }
 
@@ -185,9 +185,9 @@
 }
 
 .product-action a:hover {
-  background: #ec3323 none repeat scroll 0 0;
+  background:#ff6600 none repeat scroll 0 0;
   color: #fff;
-  border: 1px solid #ec3323;
+  border: 1px solid#ff6600;
 }
 
 .product-item {

@@ -38,7 +38,7 @@
   height: 40px;
   text-align: center;
   line-height: 40px;
-  background-color: #ec3323;
+  background-color:#ff6600;
   border-radius: 50%;
   color: #fff;
   font-size: 14px;
@@ -166,7 +166,7 @@
 }
 
 .driver-text a h3:hover {
-  color: #ec3323;
+  color:#ff6600;
 }
 
 .driver_page .pagination-box-row {
@@ -179,7 +179,7 @@
 }
 
 .load-more a.gauto-btn {
-  color: #ec3323;
+  color:#ff6600;
   margin-bottom: 0;
 }
 
